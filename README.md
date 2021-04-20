@@ -1,3 +1,3 @@
-# This repository is moved
+# This repository is moved to ...
 
 [https://github.com/ju-lab/SC2_evol_signature](https://github.com/ju-lab/SC2_evol_signature)
